@@ -1,2 +1,1 @@
-chef-couchbase2
-===============
+Chef recipe to install couchbase 2 server
